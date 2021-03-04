@@ -1,0 +1,4 @@
+id,name,coordinates-x,coordinates-y,localdatetime,health,category,weaponType,meleeweapon,chaptername,chapterworld
+1,Misha,1,2,2021-02-16,999999,ASSAULT,MELTAGUN,POWER_SWORD,FirstChapter,earth
+2,Anna,6969,1234,2022-03-24,696969,AGGRESSOR,COMBI_FLAMER,MANREAPER,SecondChapter,mars
+3,Nasha,123,321,2020-06-09,111111,TACTICAL,PLASMA_GUN,POWER_BLADE,ThirdChapter,sun
